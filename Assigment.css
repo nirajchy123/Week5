@@ -1,0 +1,59 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+.container{
+  width:100%;
+ min-height:100%;
+  background-color: rgb(201, 195, 115);
+}
+
+.max-width{
+  width:100%;
+  max-width: 1100px;
+  min-height:100vh;
+  margin: auto;
+}
+
+.description{
+width:100%;
+padding-top:5rem;
+display: flex;
+justify-content: space-around;
+}
+
+.main-heading{
+  width:50%;
+  padding:1.5rem;
+
+}
+
+.sub-heading{
+  width:40%;
+  padding:1rem;
+}
+
+h1{
+  font-family: 'Cormorant', serif;
+  font-size: 1.8rem;
+  font-size: 3rem;
+}
+
+p{
+  font-family: 'Martel', serif; 
+}
+
+.image-container{
+  margin:1rem auto;
+  width:90%;
+ height:40vh;
+}
+
+img{
+  object-fit: cover;
+  width:900px;
+  height:300px;
+}
+
