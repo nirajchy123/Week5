@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0%;
+}
+.one {
+    background-color: rgb(60, 198, 25);
+
+}
+.one .conatiner{
+    background-color: rgba(236, 33, 134, 0.884);
+}
+.one .venue{
+    margin: 275px 20px 10px 40px; 
+}
+.one h1{
+    font-size: 72px;
+    margin: 0px 0px 0px 70px;
+    width: fit-content;
+    color: rgb(201, 207, 200);
+} 
+.one h3{
+    margin: 0px 0px 0px 70px;
+    font-size: 25px;
+    color: rgb(190, 184, 184);
+
+}
+.one img{
+    float: right;
+  margin: 0 0 300 0;
+  width: 50%;
+  height: 703px;
+}
+.one .cont{
+    text-align: right;
+}
+.one input{
+    margin: 30px 0px 10px 70px;
+    font-size: 25px;
+    background-color: rgb(70, 197, 16);
+    color: rgba(163, 221, 17, 0.788) ;
+    font-weight: bold;
+    border-radius: 50px;
+}
+.one p{
+    margin-left: 30px;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.63);
+}
